@@ -1,0 +1,10 @@
+{
+  "data": {
+    "totalInstall": 13663,
+    "totaluninstall": 9472,
+    "activeinstall": 4191,
+    "aliveappusers": 6,
+    "churn": "69.33",
+    "alivechurn": "16.67"
+  }
+}

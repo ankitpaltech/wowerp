@@ -1,0 +1,129 @@
+{
+  "data": {
+    "data": [
+      {
+        "ios_install": 0,
+        "android_install": 196,
+        "ios_uninstall": 0,
+        "android_uninstall": 200,
+        "totalinstall": 196,
+        "totaluninstall": 200,
+        "created_At": "2022-08-24T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 102.04,
+        "totalchurn": 102.04
+      },
+      {
+        "ios_install": 0,
+        "android_install": 182,
+        "ios_uninstall": 0,
+        "android_uninstall": 173,
+        "totalinstall": 182,
+        "totaluninstall": 173,
+        "created_At": "2022-08-23T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 95.05,
+        "totalchurn": 95.05
+      },
+      {
+        "ios_install": 0,
+        "android_install": 182,
+        "ios_uninstall": 0,
+        "android_uninstall": 179,
+        "totalinstall": 182,
+        "totaluninstall": 179,
+        "created_At": "2022-08-22T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 98.35,
+        "totalchurn": 98.35
+      },
+      {
+        "ios_install": 0,
+        "android_install": 194,
+        "ios_uninstall": 0,
+        "android_uninstall": 198,
+        "totalinstall": 194,
+        "totaluninstall": 198,
+        "created_At": "2022-08-21T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 102.06,
+        "totalchurn": 102.06
+      },
+      {
+        "ios_install": 0,
+        "android_install": 165,
+        "ios_uninstall": 0,
+        "android_uninstall": 179,
+        "totalinstall": 165,
+        "totaluninstall": 179,
+        "created_At": "2022-08-20T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 108.48,
+        "totalchurn": 108.48
+      },
+      {
+        "ios_install": 0,
+        "android_install": 165,
+        "ios_uninstall": 0,
+        "android_uninstall": 186,
+        "totalinstall": 165,
+        "totaluninstall": 186,
+        "created_At": "2022-08-19T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 112.73,
+        "totalchurn": 112.73
+      },
+      {
+        "ios_install": 0,
+        "android_install": 181,
+        "ios_uninstall": 0,
+        "android_uninstall": 192,
+        "totalinstall": 181,
+        "totaluninstall": 192,
+        "created_At": "2022-08-18T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 106.08,
+        "totalchurn": 106.08
+      },
+      {
+        "ios_install": 0,
+        "android_install": 221,
+        "ios_uninstall": 0,
+        "android_uninstall": 188,
+        "totalinstall": 221,
+        "totaluninstall": 188,
+        "created_At": "2022-08-17T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 85.07,
+        "totalchurn": 85.07
+      },
+      {
+        "ios_install": 0,
+        "android_install": 183,
+        "ios_uninstall": 0,
+        "android_uninstall": 171,
+        "totalinstall": 183,
+        "totaluninstall": 171,
+        "created_At": "2022-08-16T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 93.44,
+        "totalchurn": 93.44
+      },
+      {
+        "ios_install": 0,
+        "android_install": 182,
+        "ios_uninstall": 0,
+        "android_uninstall": 214,
+        "totalinstall": 182,
+        "totaluninstall": 214,
+        "created_At": "2022-08-15T00:00:00.000Z",
+        "ios_churn": 0,
+        "android_churn": 117.58,
+        "totalchurn": 117.58
+      }
+    ],
+    "current": 1,
+    "pages": 12,
+    "total_documents": 118
+  }
+}
